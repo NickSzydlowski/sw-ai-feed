@@ -1,0 +1,1898 @@
+{
+    "results": [
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/4030",
+            "parent_key": "22930042",
+            "context_key": "36322105",
+            "title": "Spectral analysis perspective of why misinformation containment is still an unsolved problem",
+            "comments": "\u00a9 2023 IEEE.  Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.",
+            "publication_date": "2023-06-05T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=5029&context=faculty_rsca",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Vishnu S. Pendyala",
+                "Vishnu Pendyala",
+                "Foroozan Sadat Akhavan Tabatabaii"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/522",
+            "parent_key": "1595803",
+            "context_key": "10195478",
+            "title": "Comparing Authentic and Cryptic 5\u2019 Splice Sites Using Hidden Markov Models and Decision Trees",
+            "publication_date": "2017-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1522&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Pratikshya Mishra"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/549",
+            "parent_key": "1595803",
+            "context_key": "10403199",
+            "title": "Mining Frequency of Drug Side Effects Over a Large Twitter Dataset Using Apache Spark",
+            "publication_date": "2017-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1549&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Dennis Hsu"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/623",
+            "parent_key": "1595803",
+            "context_key": "12193180",
+            "title": "Boosted Hidden Markov Models for Malware Detection",
+            "publication_date": "2018-04-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1625&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Aditya Raghavan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/630",
+            "parent_key": "1595803",
+            "context_key": "12221558",
+            "title": "Deep Learning for Chatbots",
+            "publication_date": "2018-04-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1645&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Vyas Ajay Bhagwat"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/632",
+            "parent_key": "1595803",
+            "context_key": "12221531",
+            "title": "Facial Emotion Recognition Using Machine Learning",
+            "publication_date": "2018-04-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1643&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Nitisha Raut"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/666",
+            "parent_key": "1595803",
+            "context_key": "14474241",
+            "title": "Image Compression Using Neural Networks",
+            "publication_date": "2019-05-09T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1666&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Kunal Rajan Deshmukh"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/668",
+            "parent_key": "1595803",
+            "context_key": "14475496",
+            "title": "Species Classification using DNA Barcoding and Profile Hidden Markov Models",
+            "publication_date": "2019-05-09T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1668&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Sphoorti Poojary"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/691",
+            "parent_key": "1595803",
+            "context_key": "14544273",
+            "title": "Detection of Hate Speech in Videos Using Machine Learning",
+            "publication_date": "2019-05-20T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1691&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Unnathi Bhandary"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/701",
+            "parent_key": "1595803",
+            "context_key": "14544975",
+            "title": "Smartphone Gesture-Based Authentication",
+            "publication_date": "2019-05-20T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1701&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Preethi Sundaravaradhan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/717",
+            "parent_key": "1595803",
+            "context_key": "14569377",
+            "title": "Deep Learning Based Real Time Devanagari Character Recognition",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1715&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Aseem Chhabra"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/719",
+            "parent_key": "1595803",
+            "context_key": "14569453",
+            "title": "Benchmarking Optimization Algorithms for Capacitated Vehicle Routing Problems",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1719&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Pratik Surana"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/725",
+            "parent_key": "1595803",
+            "context_key": "14569608",
+            "title": "Graph Classification using Machine Learning Algorithms",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1725&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Monica Golahalli Seenappa"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/727",
+            "parent_key": "1595803",
+            "context_key": "14572655",
+            "title": "SQL Injection Detection Using Machine Learning",
+            "publication_date": "2019-05-23T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1727&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Sonali Mishra"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/728",
+            "parent_key": "1595803",
+            "context_key": "14569935",
+            "title": "YODA \u2013 Your Only Design Assistant",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1726&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Siddharth Kulkarni"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/736",
+            "parent_key": "1595803",
+            "context_key": "14581970",
+            "title": "MUSIC MOOD CLASSIFICATION USING CONVOLUTIONAL NEURAL NETWORKS",
+            "publication_date": "2019-05-24T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1736&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Revanth Akella"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/737",
+            "parent_key": "1595803",
+            "context_key": "14584060",
+            "title": "An Industry Driven Genre Classification Application using Natural Language Processing",
+            "publication_date": "2019-05-24T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1738&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Sharan Duggirala"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/739",
+            "parent_key": "1595803",
+            "context_key": "14602878",
+            "title": "Intelligent Log Analysis for Anomaly Detection",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1740&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Steven Yen"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/740",
+            "parent_key": "1595803",
+            "context_key": "14602785",
+            "title": "TSAR : A System for Defending Hate Speech Detection Models Against Adversaries",
+            "publication_date": "2019-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1739&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Brian Tuan Khieu"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/829",
+            "parent_key": "1595803",
+            "context_key": "15006229",
+            "title": "PREDICTING SWITCH-LIKE BEHAVIOR IN PROTEINS USING LOGISTIC REGRESSION ON SEQUENCE-BASED DESCRIPTORS",
+            "publication_date": "2019-07-26T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1829&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Benjamin Strauss"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/897",
+            "parent_key": "1595803",
+            "context_key": "16017105",
+            "title": "Information Extraction from Biomedical Text Using Machine Learning",
+            "publication_date": "2019-12-16T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1897&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Deepti Garg"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/898",
+            "parent_key": "1595803",
+            "context_key": "16017144",
+            "title": "Assessing Wildfire Damage from High Resolution Satellite Imagery Using Classification Algorithms",
+            "publication_date": "2019-12-16T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1898&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Ai-Linh Alten"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/894",
+            "parent_key": "1595803",
+            "context_key": "16005082",
+            "title": "3D Shape Prediction on Convolutional Deep Belief Networks",
+            "publication_date": "2019-12-11T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1894&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Gregory Y. Enriquez"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/916",
+            "parent_key": "1595803",
+            "context_key": "17791084",
+            "title": "REAL-TIME AD CLICK FRAUD DETECTION",
+            "publication_date": "2020-05-18T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1916&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Apoorva Srivastava"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/924",
+            "parent_key": "1595803",
+            "context_key": "17809995",
+            "title": "Video Synthesis from the StyleGAN Latent Space",
+            "publication_date": "2020-05-20T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1922&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Lei Zhang"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/929",
+            "parent_key": "1595803",
+            "context_key": "17810674",
+            "title": "Computational Astronomy: Classification of Celestial Spectra Using Machine Learning Techniques",
+            "publication_date": "2020-05-20T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1929&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Gayatri Milind Hungund"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/941",
+            "parent_key": "1595803",
+            "context_key": "17839128",
+            "title": "Predicting Students\u2019 Performance by Learning Analytics",
+            "publication_date": "2020-05-22T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1941&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Sandeep Subhash Madnaik"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/966",
+            "parent_key": "1595803",
+            "context_key": "20708720",
+            "title": "The Use of Evidential Reasoning Model with Biomarkers in  Pancreatic Cancer Prediction",
+            "publication_date": "2020-12-19T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1966&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Qianhui Fan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/476",
+            "parent_key": "1595803",
+            "context_key": "8648279",
+            "title": "Malicious JavaScript Detection using Statistical Language Model",
+            "publication_date": "2016-05-25T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1476&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Anumeha Shah"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/492",
+            "parent_key": "1595803",
+            "context_key": "8724781",
+            "title": "Analyze Large Multidimensional Datasets Using Algebraic Topology",
+            "publication_date": "2016-06-14T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1492&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "David Le"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1046",
+            "parent_key": "1595803",
+            "context_key": "26849738",
+            "title": "Predicting Stocks with LSTM-based DRNN and GAN",
+            "publication_date": "2021-12-16T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2046&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Duy Ngo"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1052",
+            "parent_key": "1595803",
+            "context_key": "26882113",
+            "title": "Privacy Preserving for Multiple Computer Vision Tasks",
+            "publication_date": "2021-12-17T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2052&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Amala Varghese Wilson"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1049",
+            "parent_key": "1595803",
+            "context_key": "26878744",
+            "title": "Nitrogenase Iron Protein Classification using CNN Neural Network",
+            "publication_date": "2021-12-17T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2049&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Amer Rez"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1080",
+            "parent_key": "1595803",
+            "context_key": "29369671",
+            "title": "Whole File Chunk Based Deduplication Using Reinforcement Learning",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2080&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Xincheng Yuan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1086",
+            "parent_key": "1595803",
+            "context_key": "29407674",
+            "title": "Generative Adversarial Networks for Image-Based Malware Classification",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2086&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Huy Nguyen"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1089",
+            "parent_key": "1595803",
+            "context_key": "29413191",
+            "title": "ADVERSARIAL ATTACKS ON SPEECH SEPARATION SYSTEMS",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2089&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Kendrick Trinh"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1090",
+            "parent_key": "1595803",
+            "context_key": "29413227",
+            "title": "Robustness of Image-Based Malware Analysis",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2090&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Katrina Tran"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1103",
+            "parent_key": "1595803",
+            "context_key": "32699782",
+            "title": "Improving User Experiences for Wiki Systems",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2103&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Parth Patel"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1106",
+            "parent_key": "1595803",
+            "context_key": "32717831",
+            "title": "Cloud Provisioning and Management with Deep Reinforcement Learning",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2106&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Alexandru Tol"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/979",
+            "parent_key": "1595803",
+            "context_key": "22866271",
+            "title": "Airbnb Price Prediction with Sentiment Classification",
+            "publication_date": "2021-05-09T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1979&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Peilu Liu"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/981",
+            "parent_key": "1595803",
+            "context_key": "22933980",
+            "title": "The Role of Social Media in Policy Formulation Improvement in California",
+            "publication_date": "2021-05-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1981&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Khoi Minh Nguyen"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/992",
+            "parent_key": "1595803",
+            "context_key": "23074390",
+            "title": "Defending Vehicles Against Cyberthreats: Challenges and a Detection-Based Solution",
+            "publication_date": "2021-05-24T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1992&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Qilin Liu"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/995",
+            "parent_key": "1595803",
+            "context_key": "23075440",
+            "title": "Automating Text Encapsulation Using Deep Learning",
+            "publication_date": "2021-05-24T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1995&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Anket Sah"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/998",
+            "parent_key": "1595803",
+            "context_key": "23086431",
+            "title": "Malware Classification with BERT",
+            "publication_date": "2021-05-25T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1998&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Joel Lawrence Alvares"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1006",
+            "parent_key": "1595803",
+            "context_key": "23087222",
+            "title": "Machine Learning to Detect Malware Evolution",
+            "publication_date": "2021-05-25T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2006&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Lolitha Sresta Tupadha"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1025",
+            "parent_key": "1595803",
+            "context_key": "23151909",
+            "title": "Advancing The Ability To Predict Cognitive Decline and Alzheimer\u2019s Disease Based On Genetic Variants Beyond Amyloid-beta and Tau",
+            "publication_date": "2021-06-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2025&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Naveen Rawat"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1033",
+            "parent_key": "1595803",
+            "context_key": "23812509",
+            "title": "Efficient Metadata Lookup In Inline Deduplication Systems Leveraging Block Similarity",
+            "publication_date": "2021-07-08T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2033&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Rakesh Gururaj"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1034",
+            "parent_key": "1595803",
+            "context_key": "24797121",
+            "title": "Generative Adversarial Networks for Classic Cryptanalysis",
+            "publication_date": "2021-09-12T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2034&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Deanne Charan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1043",
+            "parent_key": "1595803",
+            "context_key": "26845361",
+            "title": "Employee Churn Prediction using Logistic Regression and Support Vector Machine",
+            "publication_date": "2021-12-15T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2043&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Rajendra Maharjan"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1282",
+            "parent_key": "1595803",
+            "context_key": "35666122",
+            "title": "Characterizing Sequencing Artifacts",
+            "publication_date": "2023-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2279&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Kathy Thanh Lam"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/etd_projects/1302",
+            "parent_key": "1595803",
+            "context_key": "36341894",
+            "title": "A Natural Language Processing Approach to Malware Classification",
+            "publication_date": "2023-01-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2302&context=etd_projects",
+            "document_type": [
+                "project",
+                "Master's Project",
+                "Master's Projects"
+            ],
+            "author": [
+                "Ritik Mehta"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3045",
+            "parent_key": "22930042",
+            "context_key": "35600684",
+            "title": "Secure human action recognition by encrypted neural network inference",
+            "publication_date": "2022-12-01T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=4044&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Miran Kim",
+                "Xiaoqian Jiang",
+                "Kristin Lauter",
+                "Elkhan Ismayilzada",
+                "Shayan Shams"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3065",
+            "parent_key": "22930042",
+            "context_key": "35600706",
+            "title": "Data Driven Control of Vagus Nerve Stimulation for the Cardiovascular System: An in Silico Computational Study",
+            "publication_date": "2022-06-03T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=4064&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Andrew Branen",
+                "Yuyu Yao",
+                "Mayuresh V. Kothare",
+                "Babak Mahmoudi",
+                "Gautam Kumar"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3075",
+            "parent_key": "22930042",
+            "context_key": "35600717",
+            "title": "Environmental Pollution Analysis and Impact Study-A Case Study for the Salton Sea in California",
+            "publication_date": "2022-06-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=4074&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Jerry Gao",
+                "Jia Liu",
+                "Rui Xu",
+                "Samiksha Pandey",
+                "Venkata Sai Kusuma Sindhoora Vankayala Siva",
+                "Dian Yu"
+            ]
+        },
+        {
+            "context_key": "35658104",
+            "title": "Evaluating Deep Learning Models and Adversarial Attacks on Accelerometer-Based Gesture Authentication",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3333",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-030-97087-1_10",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "book_contribution",
+                "Contribution to a Book"
+            ],
+            "author": [
+                "Elliu Huang",
+                "Fabio Di Troia",
+                "Mark Stamp"
+            ]
+        },
+        {
+            "context_key": "35673849",
+            "title": "The social life of robots: The politics of algorithms, governance, and sovereignty",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3446",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://www.wiley.com/en-sg/Machine+Learning+and+the+City:+Applications+in+Architecture+and+Urban+Design-p-9781119749639",
+            "publication_date": "2022-05-27T07:00:00Z",
+            "document_type": [
+                "book_contribution",
+                "Contribution to a Book"
+            ],
+            "author": [
+                "Vincent J. Del Casino",
+                "Lily House-Peters",
+                "Jeremy W. Crampton",
+                "Hannes Gerhardt"
+            ]
+        },
+        {
+            "context_key": "35673922",
+            "title": "Novel Robust Indoor Device-Free Moving-Object Localization and Tracking Using Machine Learning With Kalman Filter and Smoother",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3468",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/JSYST.2022.3198069",
+            "publication_date": "2022-12-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Guannan Liu",
+                "Prasanga Neupane",
+                "Hsiao Chun Wu",
+                "Weidong Xiang",
+                "Limeng Pu",
+                "Shih Yu Chang"
+            ]
+        },
+        {
+            "context_key": "35716829",
+            "title": "Optimal sensor location along a beam using machine learning",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3646",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.2514/6.2022-1465",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Maria Chierichetti",
+                "Fatemeh Davoudi Kakhki"
+            ]
+        },
+        {
+            "context_key": "35716857",
+            "title": "GenEthos: A Synthetic Data Generation System with Bias Detection and Mitigation",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3674",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/IC3SIS54991.2022.9885653",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Shubham Gujar",
+                "Tanishka Shah",
+                "Dewen Honawale",
+                "Vedant Bhosale",
+                "Faizan Khan",
+                "Devika Verma",
+                "Rakesh Ranjan"
+            ]
+        },
+        {
+            "context_key": "35716863",
+            "title": "Investigating User Information and Social Media Features in Cyberbullying Detection",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3680",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/BigData55660.2022.10020305",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Jiabao Qiu",
+                "Nihar Hegde",
+                "Melody Moh",
+                "Teng Sheng Moh"
+            ]
+        },
+        {
+            "context_key": "35716843",
+            "title": "On-Device Prediction for Chronic Kidney Disease",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3660",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/GHTC55712.2022.9910606",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Alex Whelan",
+                "Soham Phadke",
+                "Alessandro Bellofiore",
+                "David C. Anastasiu"
+            ]
+        },
+        {
+            "context_key": "35716994",
+            "title": "Objective underpinnings of self-reported sleep quality in middle-aged and older adults: The importance of N2 and wakefulness",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3758",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1016/j.biopsycho.2022.108290",
+            "publication_date": "2022-04-01T07:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Renske Lok",
+                "Dwijen Chawra",
+                "Flora Hon",
+                "Michelle Ha",
+                "Katherine A. Kaplan",
+                "Jamie M. Zeitzer"
+            ]
+        },
+        {
+            "context_key": "35717017",
+            "title": "Model-based clustering and outlier detection with missing data",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3781",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/s11634-021-00476-1",
+            "publication_date": "2022-03-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Hung Tong",
+                "Cristina Tortora"
+            ]
+        },
+        {
+            "context_key": "35717022",
+            "title": "T-square tensors\u2014Part I: inequalities",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3786",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/s40314-022-01770-0",
+            "publication_date": "2022-02-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Shih Yu Chang",
+                "Yimin Wei"
+            ]
+        },
+        {
+            "context_key": "35717048",
+            "title": "Material removal rate prediction in chemical mechanical planarization with conditional probabilistic autoencoder and stacking ensemble learning",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3812",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/s10845-022-02040-w",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Yupeng Wei",
+                "Dazhong Wu"
+            ]
+        },
+        {
+            "context_key": "35717047",
+            "title": "Real-time traffic congestion prediction using big data and machine learning techniques",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3811",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1108/WJE-07-2021-0428",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Priyanka Chawla",
+                "Rutuja Hasurkar",
+                "Chaithanya Reddy Bogadi",
+                "Naga Sindhu Korlapati",
+                "Rajasree Rajendran",
+                "Sindu Ravichandran",
+                "Sai Chaitanya Tolem",
+                "Jerry Zeyu Gao",
+                "Jerry Gao"
+            ]
+        },
+        {
+            "context_key": "35871791",
+            "title": "Personalized Multimedia Recommendation Systems Using Higher-Order Tensor Singular-Value-Decomposition",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/3946",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/TBC.2023.3278111",
+            "publication_date": "2023-01-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Shih Yu Chang",
+                "Hsiao Chun Wu",
+                "Kun Yan",
+                "Xinjia Chen",
+                "Scott Chih Hao Huang",
+                "Yiyan Wu"
+            ]
+        },
+        {
+            "context_key": "36135690",
+            "title": "Intelligent Computing and Communication | Proceedings of 6th ICICC 2022",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/4006",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-981-99-1588-0",
+            "publication_date": "2023-09-19T07:00:00Z",
+            "document_type": [
+                "book",
+                "Book",
+                "Books"
+            ],
+            "author": [
+                "M. Seetha",
+                "Sateesh K. Peddoju",
+                "Vishnu Pendyala",
+                "Vedula V. S. S. S. Chakravarthy"
+            ]
+        },
+        {
+            "context_key": "33475334",
+            "title": "Comparison of Manifold Learning Algorithms for Rapid Circuit Defect Extraction in SPICE-Augmented Machine Learning",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2052",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/WMED55302.2022.9758032",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Vasu Eranki",
+                "Thomas Lu",
+                "Hiu Yung Wong"
+            ]
+        },
+        {
+            "context_key": "33475336",
+            "title": "Rapid MOSFET Contact Resistance Extraction from Circuit Using SPICE-Augmented Machine Learning without Feature Extraction",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2054",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/TED.2021.3123092",
+            "publication_date": "2021-12-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Thomas Lu",
+                "Varada Kanchi",
+                "Kashyap Mehta",
+                "Sagar Oza",
+                "Tin Ho",
+                "Hiu Yung Wong"
+            ]
+        },
+        {
+            "context_key": "33475337",
+            "title": "TCAD-Augmented Machine Learning with and without Domain Expertise",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2055",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/TED.2021.3073378",
+            "publication_date": "2021-11-01T07:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Harsaroop Dhillon",
+                "Kashyap Mehta",
+                "Ming Xiao",
+                "Boyan Wang",
+                "Yuhao Zhang",
+                "Hiu Yung Wong"
+            ]
+        },
+        {
+            "context_key": "34740925",
+            "title": "Archivist in the machine: paradata for AI-based automation in the archives",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2198",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/s10502-023-09408-8",
+            "publication_date": "2023-01-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Jeremy Davet",
+                "Babak Hamidzadeh",
+                "Patricia Franks",
+                "Patricia C. Franks"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2323",
+            "parent_key": "22930042",
+            "context_key": "34928885",
+            "title": "Academic and Demographic Cluster Analysis of Engineering Student Success",
+            "comments": "<p>This is the <strong>Version of Record</strong> and can also be read online <a href=\"https://doi.org/10.1109/TE.2020.3036824\">here</a>.</p>",
+            "publication_date": "2021-08-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=3322&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Farshid Marbouti",
+                "Jale Ulas",
+                "Ching Ho Wang"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/2388",
+            "parent_key": "22930042",
+            "context_key": "35151637",
+            "title": "The University of Washington Ice-Liquid Discriminator (UWILD) improves single-particle phase classifications of hydrometeors within Southern Ocean clouds using machine learning",
+            "publication_date": "2021-11-11T08:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=3387&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Rachel Atlas",
+                "Johannes Mohrmann",
+                "Joseph Finlon",
+                "Jeremy Lu",
+                "Ian Hsiao",
+                "Robert Wood",
+                "Minghui Diao"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1008",
+            "parent_key": "22930042",
+            "context_key": "31314877",
+            "title": "Predictive modeling for occupational safety outcomes and days away from work analysis in mining operations",
+            "comments": "<p>This is the <strong>Version of Record</strong> and can also be read online <a href=\"https://doi.org/10.3390/ijerph17197054\">here</a>.</p>",
+            "publication_date": "2020-10-01T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2007&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Anurag Yedla",
+                "Fatemeh Davoudi Kakhki",
+                "Ali Jannesari"
+            ]
+        },
+        {
+            "context_key": "31850451",
+            "title": "Convolutional neural networks for image spam detection",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1248",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1080/19393555.2020.1722867",
+            "publication_date": "2020-05-03T07:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Tazmina Sharmin",
+                "Fabio Di Troia",
+                "Katerina Potika",
+                "Mark Stamp"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1409",
+            "parent_key": "22930042",
+            "context_key": "32575014",
+            "title": "Enhanced Algorithmic Job Matching based on a Comprehensive Candidate Profile using NLP and Machine Learning",
+            "comments": "<p>\u00a9 2023 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.</p>",
+            "publication_date": "2022-08-15T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2408&context=faculty_rsca",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Vishnu S. Pendyala",
+                "Vishnu Pendyala",
+                "Nishtha Atrey",
+                "Tina Aggarwal",
+                "Saumya Goyal"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1410",
+            "parent_key": "22930042",
+            "context_key": "32575015",
+            "title": "Relating Machine Learning to the Real-World: Analogies to Enhance Learning Comprehension",
+            "comments": "<p>This version of the conference paper has been accepted for publication, and is subject to Springer Nature\u2019s <a href=\"https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms\">AM terms of use</a>, but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: <a href=\"https://doi.org/10.1007/978-3-031-05767-0_11\">https://doi.org/10.1007/978-3-031-05767-0_11</a></p>",
+            "publication_date": "2022-05-07T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2409&context=faculty_rsca",
+            "author": [
+                "Vishnu S. Pendyala",
+                "Vishnu Pendyala"
+            ],
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ]
+        },
+        {
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1408",
+            "parent_key": "22930042",
+            "context_key": "32575013",
+            "title": "Enhancing the Cognition and Efficacy of Machine Learning Through Similarity",
+            "comments": "<p>This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature\u2019s <a href=\"https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms\">AM terms of use</a>, but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: <a href=\"https://doi.org/10.1007/s42979-022-01339-y\">https://doi.org/10.1007/s42979-022-01339-y</a></p>",
+            "publication_date": "2022-08-11T07:00:00Z",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2407&context=faculty_rsca",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Vishnu Pendyala",
+                "Rakesh Amireddy"
+            ]
+        },
+        {
+            "context_key": "32623520",
+            "title": "Utilization of Machine Learning in Analyzing Post-incident State of Occupational Injuries in Agro-Manufacturing Industries",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1749",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-030-50946-0_1",
+            "publication_date": "2020-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Fatemeh Davoudi Kakhki",
+                "Steven A. Freeman",
+                "Gretchen A. Mosher"
+            ]
+        },
+        {
+            "context_key": "32820153",
+            "title": "Automating Tiny ML Intelligent Sensors DevOPS Using Microsoft Azure",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1890",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/BigData50022.2020.9377755",
+            "publication_date": "2020-12-10T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Karthik Chillara",
+                "Sharat Kedari",
+                "Vanaja Mamidi"
+            ]
+        },
+        {
+            "context_key": "32820156",
+            "title": "Democratization of AI to small scale farmers, albeit food harvesting citizen data scientists, that are at the bottom of the economic pyramid",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1893",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-030-39512-4_55",
+            "publication_date": "2020-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati",
+                "Jayashankar Vuppalapati",
+                "Santosh Kedari"
+            ]
+        },
+        {
+            "context_key": "32820157",
+            "title": "Human AI symbiosis: The role of artificial intelligence in stratifying high-risk outpatient senior citizen fall events in a non-connected environments",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1894",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-030-39512-4_52",
+            "publication_date": "2020-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati",
+                "Jayashankar Vuppalapati",
+                "Santosh Kedari"
+            ]
+        },
+        {
+            "context_key": "32820164",
+            "title": "Emotional health: A data driven approach to understand our emotions and improve our health",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1901",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/CSE/EUC.2019.00071",
+            "publication_date": "2019-08-01T07:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Sharat Kedari",
+                "Anitha Ilapakurti",
+                "Santosh Kedari",
+                "Jaya Shankar"
+            ]
+        },
+        {
+            "context_key": "32820167",
+            "title": "The Role of Selfies in Creating the Next Generation Computer Vision Infused Outpatient Data Driven Electronic Health Records (EHR)",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1904",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/BigData.2018.8622458",
+            "publication_date": "2019-01-22T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Jaya Shankar Vuppalapati",
+                "Santosh Kedari",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati",
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti"
+            ]
+        },
+        {
+            "context_key": "32820178",
+            "title": "Adaptive edge analytics - A framework to improve performance and prognostics capabilities for dairy IoT sensor",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1915",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-319-73888-8_99",
+            "publication_date": "2018-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Santosh Kedari",
+                "Jaya Shankar Vuppalapati",
+                "Anitha Ialapakurti",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati",
+                "Chandrasekar Vuppalapati"
+            ]
+        },
+        {
+            "context_key": "31629171",
+            "title": "Detection of Hate Speech in Videos Using Machine Learning",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1177",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/CSCI51800.2020.00104",
+            "publication_date": "2020-12-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Ching Seh Wu",
+                "CHING-SEH Wu",
+                "Unnathi Bhandary"
+            ]
+        },
+        {
+            "context_key": "31629190",
+            "title": "Stock market prediction using ensemble of graph theory, machine learning and deep learning models",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1194",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1145/3378936.3378972",
+            "publication_date": "2020-01-12T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Pratik Patil",
+                "Ching Seh M. Wu",
+                "CHING-SEH Wu",
+                "Katerina Potika",
+                "Marjan Orang"
+            ]
+        },
+        {
+            "context_key": "31850433",
+            "title": "Visualizing strange metallic correlations in the two-dimensional Fermi-Hubbard model with artificial intelligence",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1232",
+            "parent_key": "22930042",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2231&context=faculty_rsca",
+            "publication_date": "2020-09-01T07:00:00Z",
+            "comments": "<p>\u00a92020 American Physical Society</p>",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Ehsan Khatami",
+                "Elmer Guardado-Sanchez",
+                "Benjamin M. Spar",
+                "Juan Felipe Carrasquilla",
+                "Waseem S. Bakr",
+                "Richard T. Scalettar"
+            ]
+        },
+        {
+            "context_key": "32575012",
+            "title": "Towards building a Deep Learning based Automated Indian Classical Music Tutor for the Masses",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1407",
+            "parent_key": "22930042",
+            "download_format": "pdf",
+            "download_link": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2406&context=faculty_rsca",
+            "publication_date": "2022-12-01T08:00:00Z",
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "author": [
+                "Vishnu S. Pendyala",
+                "Vishnu Pendyala",
+                "Nupur Yadav",
+                "Chetan Kulkarni",
+                "Lokesh Vadlamudi"
+            ]
+        },
+        {
+            "context_key": "32622112",
+            "title": "Blockchain technology and applications",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1609",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://www.riverpublishers.com/book_details.php?book_id=722",
+            "publication_date": "2020-07-15T07:00:00Z",
+            "document_type": [
+                "book",
+                "Book",
+                "Books"
+            ],
+            "author": [
+                "Ahmed Banafa"
+            ]
+        },
+        {
+            "context_key": "32622145",
+            "title": "Best Seller Rank (BSR) to Sales: An empirical look at Amazon.com",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1639",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/QRS-C51114.2020.00104",
+            "publication_date": "2020-12-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Amit Sharma",
+                "Hongrui Liu",
+                "Hongwei Liu"
+            ]
+        },
+        {
+            "context_key": "32622165",
+            "title": "Evaluating KNN Performance on WESAD Dataset",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1657",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/CICN49253.2020.9242568",
+            "publication_date": "2020-09-25T07:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Dhananjai Bajpai",
+                "Lili He"
+            ]
+        },
+        {
+            "context_key": "32623466",
+            "title": "Democratization of AI, albeit constrained IoT devices & Tiny ML, for creating a sustainable food future",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1702",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/ICICT50521.2020.00089",
+            "publication_date": "2020-03-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Sharat Kedari",
+                "Jaya Vuppalapati",
+                "Santosh Kedari",
+                "Raja Vuppalapati"
+            ]
+        },
+        {
+            "context_key": "32623480",
+            "title": "Forecasting and inventory model for genuine automotive spare parts wholesale distributor",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1713",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://search.proquest.com/openview/3b778a8c185706104f0108f8a9d8bac0/1?pq-origsite=gscholar&cbl=51908",
+            "publication_date": "2020-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Norachai Sanguansaringkhan",
+                "Hongrui Liu"
+            ]
+        },
+        {
+            "context_key": "32820146",
+            "title": "Intelligent Data Communication Technologies and Internet of Things: Proceedings of ICICI 2021",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1883",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-981-16-7610-9",
+            "publication_date": "2022-01-01T08:00:00Z",
+            "document_type": [
+                "book",
+                "Book",
+                "Books"
+            ],
+            "author": [
+                "D. Jude Hemanth",
+                "Danilo Pelusi",
+                "Chandrasekar Vuppalapati"
+            ]
+        },
+        {
+            "context_key": "32820150",
+            "title": "International Conference on Communication, Computing and Electronics Systems: Proceedings of ICCCES 2020",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1887",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-981-33-4909-4",
+            "publication_date": "2021-01-01T08:00:00Z",
+            "document_type": [
+                "book",
+                "Book",
+                "Books"
+            ],
+            "author": [
+                "V. Bindhu",
+                "Jo\u00e3o Manuel R.S. Tavares",
+                "Alexandros-Apostolos A. Boulogeorgos",
+                "Chandrasekar Vuppalapati"
+            ]
+        },
+        {
+            "context_key": "32820151",
+            "title": "Crossing the Artificial Intelligence (AI) Chasm, Albeit Ising Constrained IoT Edges and Tiny ML, for Creating a Sustainable Food Future",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1888",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-981-15-5859-7_54",
+            "publication_date": "2021-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Sharat Kedari",
+                "Raja Vuppalapati",
+                "Jaya Vuppalapati",
+                "Santosh Kedari"
+            ]
+        },
+        {
+            "context_key": "32820154",
+            "title": "The role of combinatorial mathematical optimization and heuristics to improve small farmers to veterinarian access and to create a sustainable food future for the world",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1891",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1109/WorldS450073.2020.9210339",
+            "publication_date": "2020-07-01T07:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Chandrasekar Vuppalapati",
+                "Anitha Ilapakurti",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati",
+                "Jayashankar Vuppalapati",
+                "Santosh Kedari"
+            ]
+        },
+        {
+            "context_key": "32820158",
+            "title": "A Digital Diagnostic Aide for Skincare: The Role of Computer Vision and Machine Learning in Revealing Skin Texture Changes",
+            "url": "http://scholarworks.sjsu.edu/faculty_rsca/1895",
+            "parent_key": "22930042",
+            "download_format": "external",
+            "download_link": "https://doi.org/10.1007/978-3-030-39442-4_69",
+            "publication_date": "2020-01-01T08:00:00Z",
+            "document_type": [
+                "conference",
+                "Conference Proceeding",
+                "Conference Proceedings"
+            ],
+            "author": [
+                "Jaya Shankar Vuppalapati",
+                "Santosh Kedari",
+                "Anitha Ilapakurti",
+                "Chandrasekar Vuppalapati",
+                "Sharat Kedari",
+                "Rajasekar Vuppalapati"
+            ]
+        }
+    ],
+    "query_meta": {
+        "total_hits": 684,
+        "start": 0,
+        "limit": 100,
+        "field_params": {
+            "include_only": [
+                "author",
+                "document_type",
+                "comments",
+                "publication_date",
+                "title",
+                "url",
+                "parent_key",
+                "context_key",
+                "download_link",
+                "download_format"
+            ]
+        }
+    }
+}

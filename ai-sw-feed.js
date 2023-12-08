@@ -8,7 +8,7 @@
         {'data': 'year', 'title': 'Year', 'className':'sw-year', "defaultContent": "", 'orderable':false},
         {'data': 'url', 'title': 'URL', 'className':'sw-link', "defaultContent": "", 'orderable':false, "render": function(data, type, row, meta){
               if(type === 'display'){
-                  data = '<a href="' + data + '">' + 'More information' + '</a>';
+                  data = '<a target="_blank" href="' + data + '">' + 'More information' + '</a>';
             }
             return data;
          }},

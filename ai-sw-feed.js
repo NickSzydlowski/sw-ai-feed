@@ -26,6 +26,9 @@ $(document).ready(function(){
     'dom':'ftr',
     'pageLength': 1500,
     'order' : [[0, 'asc'], [3, 'desc'], [1, 'asc']],
+    "language": {
+      "search": "Search AI Research from SJSU Authors:"
+    },
     'columns': createTableColumns(),
      'ajax': {
      url: 'output.json',

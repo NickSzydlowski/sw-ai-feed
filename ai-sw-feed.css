@@ -1,0 +1,16 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #337ab7;
+}
+.page-link {
+  color: #337ab7;
+}
+
+.active>.page-link, .page-link.active {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}

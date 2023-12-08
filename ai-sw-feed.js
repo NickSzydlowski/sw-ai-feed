@@ -2,11 +2,11 @@
   function createTableColumns(){
 
     var tableColumns =   [
-        {'data': 'type', 'title': 'Document Type', "defaultContent": "", 'visible':false },
-        {'data': 'title', 'title': 'Title', 'className':'sw-title', "defaultContent": ""},
-        {'data': 'author', 'title': 'Author(s)', 'className':'sw-author', "defaultContent": ""},
-        {'data': 'year', 'title': 'Year', 'className':'sw-year', "defaultContent": ""},
-        {'data': 'url', 'title': 'URL', 'className':'sw-link', "defaultContent": "", "render": function(data, type, row, meta){
+        {'data': 'type', 'title': 'Document Type', "defaultContent": "", 'visible':false},
+        {'data': 'title', 'title': 'Title', 'className':'sw-title', "defaultContent": "", 'orderable':false},
+        {'data': 'author', 'title': 'Author(s)', 'className':'sw-author', "defaultContent": "", 'orderable':false},
+        {'data': 'year', 'title': 'Year', 'className':'sw-year', "defaultContent": "", 'orderable':false},
+        {'data': 'url', 'title': 'URL', 'className':'sw-link', "defaultContent": "", 'orderable':false, "render": function(data, type, row, meta){
               if(type === 'display'){
                   data = '<a href="' + data + '">' + 'More information' + '</a>';
             }

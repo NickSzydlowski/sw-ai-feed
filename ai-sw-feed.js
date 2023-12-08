@@ -23,6 +23,8 @@ $(document).ready(function(){
 
   //this function creates the datatable and selects configuration options
   var oTable = $('#data-table-container').DataTable({
+    'dom':'ftr',
+    'pageLength': 1500,
     'order' : [[0, 'asc'], [3, 'desc'], [1, 'asc']],
     'columns': createTableColumns(),
      'ajax': {

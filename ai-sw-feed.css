@@ -5,6 +5,12 @@ body {
 a {
   color: #337ab7;
 }
+#scholarWorksTable {
+  padding:20px;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  text-align: left;
+}
 .page-link {
   color: #337ab7;
 }

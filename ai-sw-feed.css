@@ -10,7 +10,18 @@ a {
 }
 div.dataTables_wrapper div.dataTables_filter {
   text-align: left;
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  height:40px;
+  z-index: 999;
 }
+
+#data-table-container{
+  margin-top: 20px !important;
+}
+
 .page-link {
   color: #337ab7;
 }

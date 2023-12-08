@@ -34,6 +34,7 @@ $(document).ready(function(){
          var myType;
          var allAuthors;
          var pubDate;
+         var secureLink;
          var myData = json['results']; //spreadsheet data lives in an array with the name values
          //rewrite data to an object with key-value pairs. This is also a chance to rename or ignore columns
          myData= myData.map(function( n, i ) {
@@ -46,13 +47,12 @@ $(document).ready(function(){
           //list all authors
           allAuthors = n['author'].join(", ");
           pubDate = new Date(n['publication_date']);
-          console.log(pubDate);
           pubDate = pubDate.getFullYear();
-          console.log(pubDate);
 
+          secureLink = n['url'].replace("http","https");
 
              var myObject = {
-               url:n['url'],
+               url:secureLink,
                title:n['title'],
                type:myType,
                author:allAuthors,

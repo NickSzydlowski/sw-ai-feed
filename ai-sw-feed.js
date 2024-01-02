@@ -31,7 +31,7 @@ $(document).ready(function(){
     },
     'columns': createTableColumns(),
      'ajax': {
-     url: 'output.json',
+     url: 'outputall.json',
      cache: true,
        'dataSrc': function(json) {
          var myType;
@@ -44,8 +44,12 @@ $(document).ready(function(){
           //handle type - third entry is usually better than the second but not always present
            if (n['document_type'][2]) {
              myType = n['document_type'][2]
-            } else {
+           } else if (n['document_type'][1]) {
               myType = n['document_type'][1]
+          } else if (n['document_type'][0] == 'article') {
+              myType = "Articles"
+          } else {
+            myType = n['document_type'][0]
           };
           //list all authors
           allAuthors = n['author'].join(", ");
